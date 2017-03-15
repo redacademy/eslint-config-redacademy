@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-redacademy",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "RED Academy ESLint configuration",
   "main": "index.js",
   "repository" : {
