@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-redacademy",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "RED Academy ESLint configuration",
   "main": "index.js",
   "repository" : {
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "peerDependencies": {
     "babel-eslint": "^7.1.1",
     "eslint": "^3.17.1",
     "eslint-config-airbnb": "^14.1.0",
