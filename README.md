@@ -3,13 +3,13 @@
 ## Installation
 
 ```sh
-npm i -D red-eslint
+npm install --save-dev eslint-config-redacademy
 ```
 
 ## Configure .eslintrc
 
 ```js
 {
-  "extends": "red-eshint"
+  "extends": "redacademy"
 }
 ```

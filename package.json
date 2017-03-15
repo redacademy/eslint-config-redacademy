@@ -1,8 +1,12 @@
 {
-  "name": "red-eslint",
-  "version": "0.1.0",
-  "description": "",
+  "name": "eslint-config-redacademy",
+  "version": "0.3.0",
+  "description": "RED Academy ESLint configuration",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/redacademy/eslint-config-redacademy"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
